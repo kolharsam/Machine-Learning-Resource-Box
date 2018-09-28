@@ -21,9 +21,7 @@ After installing prompt enter the following commands:
 
 ## Where do I start?
 
-A Great place to start: Google's Machine Learning Crash Course [Link](https://developers.google.com/machine-learning/crash-course/)
-                        
-OR 
+A Great place to start: Google's Machine Learning Crash Course [Link](https://developers.google.com/machine-learning/crash-course/) 
 
 ### Any of these: 
   * [Link1](url)
@@ -37,6 +35,7 @@ Once you have the basics down, ramp up your skills by applying ML techniques to 
 ### Any of these: 
   * Deep Learning Specialization[Link](https://www.coursera.org/specializations/deep-learning)
   * Introduction to Reinforcement Learning(Google DeepMind)[Link](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+  * Stanford Lectures[Link](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   
 ## The Books Which can Help You Out in Moving Forward?
 
