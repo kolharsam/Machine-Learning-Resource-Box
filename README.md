@@ -12,12 +12,12 @@ It's the cutting edge of Computer Programming. You write programs that allow sof
 ## Software and library requirements:
 * Anaconda Prompt[Link](https://www.anaconda.com/download/)
 After installing prompt enter the following commands:
-  >> pip install pandas
-  >> pip install numpy
-  >> pip install skypy
-  >> pip install seaborn
-  >> pip install matplotlib
-  >> pip install sklearn
+  * pip install pandas
+  * pip install numpy
+  * pip install skypy
+  * pip install seaborn
+  * pip install matplotlib
+  * pip install sklearn
 
 ## Where do I start?
 
