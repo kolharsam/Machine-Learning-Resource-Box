@@ -9,6 +9,16 @@ It's the cutting edge of Computer Programming. You write programs that allow sof
 * AndrewNg Machine Learning Course[Link](https://www.coursera.org/learn/machine-learning)
 * [Link2](url)
 
+## Software and library requirements:
+* Anaconda Prompt[Link](https://www.anaconda.com/download/)
+After installing prompt enter the following commands:
+  >> pip install pandas
+  >> pip install numpy
+  >> pip install skypy
+  >> pip install seaborn
+  >> pip install matplotlib
+  >> pip install sklearn
+
 ## Where do I start?
 
 A Great place to start: Google's Machine Learning Crash Course [Link](https://developers.google.com/machine-learning/crash-course/)
