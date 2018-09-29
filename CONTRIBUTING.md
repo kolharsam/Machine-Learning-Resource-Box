@@ -28,9 +28,7 @@ A breif of the contribution is to be mentioned here first and few lines on the m
   ... and so on.
   
   The Markdown for adding a link is: 
-  ```
-  [Link](url)
-  ```
+  ```[Link](url)```
   
   More Information regarding Markdown can be found [here](https://guides.github.com/features/mastering-markdown/)
   
@@ -38,3 +36,7 @@ A breif of the contribution is to be mentioned here first and few lines on the m
   ## Final Thoughts
   
   Please follow these instructions so that the changes that you provide can be easily added to the repository and experience the joy in contributing to someone's learning.
+  
+ ---
+  **Please be sure to check for grammatical and spelling errors in your text before submitting your Pull Request!**
+ ---
