@@ -43,5 +43,15 @@ As most of the Courses are done on Research Software like R,Octave.These books c
 
 ### Any of these:
 * Sebastian Raschka python machine learning-This is one of the most referred book for Machine Learning Concepts and Implementation.
+
+## Which Datasets will help you test your Machine Learning Skills?
+
+Kaggle is a great place for hunting datasets but you cannot obviously start working with any dataset right off the bat so here are some particular datasets which can help you test your Machine Learning Skills if you just starting up with it.
+
+### Any of these:
+ * Titanic dataset(Classification Problem) [Link](https://www.kaggle.com/c/titanic)
+ * Iris Dataset(Classification Problem) [Link](https://www.kaggle.com/uciml/iris)
+ * MNIST Dataset(Image Classification Problem) [Link](https://www.kaggle.com/c/digit-recognizer)
+ * House Prices(Regression Problem) [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
   
 **More information coming soon.**
