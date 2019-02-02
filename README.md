@@ -53,5 +53,23 @@ Kaggle is a great place for hunting datasets but you cannot obviously start work
  * Iris Dataset(Classification Problem) [Link](https://www.kaggle.com/uciml/iris)
  * MNIST Dataset(Image Classification Problem) [Link](https://www.kaggle.com/c/digit-recognizer)
  * House Prices(Regression Problem) [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+ 
+ ## How to approach any Machine Learning Problem(For Beginners trying out their first normal dataset)?
+  There will surely be a time when you might feel alienated as you see your first dataset. After all,this high amount of
+  numbers will make anyone bewildered. So,Here are the steps which you need to follow when you see a heap of numbers and
+  categories together in a dataset in the near future so that you don't feel totally clueless about it.Consider it as an
+  approach to any dataset-
+  
+  1) Data Exploration-Play around with the dataset, make some graphs and find relations between different columns. In all try to gather some conclusions out of it. You also need to see if it has some missing values and do some statistical observations like Scaling,etc.This process is called as Data Exploration.Its a very important part of any machine learning problem.
+  
+  2) Data Preparation-Now that you have had fun playing with the dataset. It's time to get into business. The missing values needs to be filled as the algorithms are very bad at dealing with missing data.The best way to fill it is using mean of the column as it has been observed to work well. Also, just filling it with the mean is not going to help. Take the knowledge  of the data you explored into consideration and make the relevant groupings and fill the mean according to it. Along with this, algorithm cannot deal with words so, change the words into numbers by mapping it to numbers.Eg- If there is a column of gender which can be either male or female, then map it respectively to male-1 while female-0.Looks easy right.This process is known as data preparation.
+  
+  3) Data Cleaning-Now that you have explored and prepared the dataset, it's time to give the final touches to it so that the machine learning algorithm works well on it. The final step is to see if the values of each column in the same scale.Eg- If a column is in the range of 1-2 while another one is in the range of 100-150,They are not in the same range right.So, The algorithm tends to be biased towards the higher range column. As this should not happen, you should bring the dataset to a same range by either scaling it yourself or using this [link](https://scikit-learn.org/stable/modules/preprocessing.html). Along, with this removal of extreme values in a column known as outliers[link](https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/) in statistical terms is also done. This marks the final preparation of the dataset. There are a few more steps which can be considered but as it is your first dataset you are good to go. This process in all is called as Data Cleaning. Its the most important part of this process.
+  
+  4) Algorithm Selection-Now that you have prepared the dataset. It's time to do the best part. Feed the dataset into  the algorithm you have decided to use and Boom! you have made your first model of Machine Learning. Reiterate this step again and again. Play with it until you are satisfied with the results and think it cannot be further improved.
+  
+  This are the main steps which you need to follow while approaching a normal dataset. Other kind of datasets like images,text,etc have the same process but separate way to deal with each of the step stated which will be updated later.
+  
+  
   
 **More information coming soon.**
